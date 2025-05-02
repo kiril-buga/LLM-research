@@ -1,3 +1,7 @@
 langchain
 langchain-cerebras
 langchain-core
+langgraph
+
+
+pydantic
