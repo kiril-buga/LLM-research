@@ -2,6 +2,6 @@ langchain
 langchain-cerebras
 langchain-core
 langgraph
-
-
+# DB connect
+psycopg2
 pydantic
