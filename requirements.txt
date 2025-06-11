@@ -5,3 +5,5 @@ langgraph
 # DB connect
 psycopg2
 pydantic
+openpyxl
+pandas
