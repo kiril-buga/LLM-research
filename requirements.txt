@@ -8,3 +8,5 @@ pydantic
 openpyxl
 pandas
 langchain-google-genai
+
+langchain-groq
